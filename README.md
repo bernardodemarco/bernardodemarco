@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Bernardo De Marco Gonçalves</h1>
-<h3 align="center">A passionate Information Systems student at UFSC.</h3>
+<h3 align="center">A passionate Information Systems student at <a href="https://ufsc.br/">UFSC<a/>.</h3>
 
 - 🌱 I’m currently learning **React, Node.js**
 
